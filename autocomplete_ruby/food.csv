@@ -1,0 +1,15 @@
+"food_id","type","price"
+1,'NO',0
+2,'Bed & breakfast',500
+3,'Half board',1000
+4,'Full board',1500
+5,'All inclusive',2000
+6,'Child bed & breakfast',300
+7,'Child Half board',600
+8,'Child Full board',1200
+9,'Vegetarian bed & breakfast',600
+10,'Vegetarian Half board',1200
+11,'Vegetarian Full board',1800
+12,'Certain bed & breakfast',200
+13,'Certain Half board',400
+14,'Certain Full board',600

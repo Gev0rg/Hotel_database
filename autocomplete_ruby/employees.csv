@@ -1,0 +1,51 @@
+"employee_id","personal_data_id","hotel_id","education","position","salary"
+1,1,1,'higher education','senior administrator',150000
+2,2,1,'higher education','junior administrator',90000
+3,3,1,'higher education','junior administrator',90000
+4,4,2,'higher education','senior administrator',150000
+5,5,2,'higher education','junior administrator',90000
+6,6,2,'higher education','junior administrator',90000
+7,7,3,'higher education','senior administrator',150000
+8,8,3,'higher education','junior administrator',90000
+9,9,3,'higher education','junior administrator',90000
+10,10,4,'higher education','senior administrator',150000
+11,11,4,'higher education','junior administrator',90000
+12,12,4,'higher education','junior administrator',90000
+13,13,5,'higher education','senior administrator',150000
+14,14,5,'higher education','junior administrator',90000
+15,15,5,'higher education','junior administrator',90000
+16,16,1,'secondary education','cleaner',40000
+17,17,1,'secondary education','cleaner',40000
+18,18,1,'higher education','chef',100000
+19,19,1,'higher education','cook',80000
+20,20,1,'higher education','cook',80000
+21,21,1,'secondary education','security',60000
+22,22,1,'secondary education','security',60000
+23,23,2,'secondary education','cleaner',40000
+24,24,2,'secondary education','cleaner',40000
+25,25,2,'higher education','chef',100000
+26,26,2,'higher education','cook',80000
+27,27,2,'higher education','cook',80000
+28,28,2,'secondary education','security',60000
+29,29,2,'secondary education','security',60000
+30,30,3,'secondary education','cleaner',40000
+31,31,3,'secondary education','cleaner',40000
+32,32,3,'higher education','chef',100000
+33,33,3,'higher education','cook',80000
+34,34,3,'higher education','cook',80000
+35,35,3,'secondary education','security',60000
+36,36,3,'secondary education','security',60000
+37,37,4,'secondary education','cleaner',40000
+38,38,4,'secondary education','cleaner',40000
+39,39,4,'higher education','chef',100000
+40,40,4,'higher education','cook',80000
+41,41,4,'higher education','cook',80000
+42,42,4,'secondary education','security',60000
+43,43,4,'secondary education','security',60000
+44,44,5,'secondary education','cleaner',40000
+45,45,5,'secondary education','cleaner',40000
+46,46,5,'higher education','chef',100000
+47,47,5,'higher education','cook',80000
+48,48,5,'higher education','cook',80000
+49,49,5,'secondary education','security',60000
+50,50,5,'secondary education','security',60000
